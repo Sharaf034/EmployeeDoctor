@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\coursework.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\coursework.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\coursework.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\coursework.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\bin\Debug\net6.0\coursework.exe
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\bin\Debug\net6.0\coursework.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\bin\Debug\net6.0\coursework.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\bin\Debug\net6.0\coursework.dll
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\bin\Debug\net6.0\coursework.pdb
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\coursework.dll
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\refint\coursework.dll
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\coursework.pdb
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\coursework.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\courseWork\coursework\coursework\obj\Debug\net6.0\ref\coursework.dll
